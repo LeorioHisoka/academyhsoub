@@ -1,5 +1,5 @@
 
-let AgeInput=prompt(" How old are you ?!");
+/*let AgeInput=prompt(" How old are you ?!");
 let Age = Number(AgeInput);
 if (!isNaN(Age)&& Age>0) {
     
@@ -15,3 +15,4 @@ if (!isNaN(Age)&& Age>0) {
 }   else {
     console.log("enter a correct number"); 
 }
+*/
